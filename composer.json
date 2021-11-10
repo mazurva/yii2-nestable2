@@ -22,7 +22,7 @@
     },
     "autoload": {
         "psr-4": {
-            "mazurva\\nestable2": "src\\"
+            "mazurva\\nestable2\\": "src\\"
         }
     },
     "repositories": [
